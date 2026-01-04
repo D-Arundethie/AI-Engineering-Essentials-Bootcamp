@@ -33,4 +33,13 @@ An advanced reasoning technique where the model explores **multiple reasoning pa
 - Useful for decision-making, planning, or hard logic puzzles  
 - Helps improve *accuracy and creativity* in decision-making
 
+<<<<<<< HEAD
 **Use case:** Planning a trip with multiple constraints, choosing the best route after considering different options
+=======
+**Use case:** Planning a trip with multiple constraints, choosing the best route after considering different options
+
+
+
+
+
+>>>>>>> d194c85eec65971a28e9799fff2b2f62f9e17f42
